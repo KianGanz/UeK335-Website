@@ -2,4 +2,4 @@
 
 ## App Logo
 
-![Logo](Uek-AppLogo.png)
+![Logo](UeK-AppLogo.png)
